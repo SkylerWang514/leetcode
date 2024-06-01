@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aac9f5a7-db98-4018-8e0f-ecc4d58325ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bigscreen: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="leetcode" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\RepMavenIDEA" />
+        <option name="mavenHome" value="F:/Server/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\Server\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NmFivE1fPxS24IX0PxAf7zIqKM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lottery" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="Application.ListTest">
+    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="skill.ListTest" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="skill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="back.Partition" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="back.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Singleton" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Partition" />
+        <item itemvalue="Application.Singleton" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@50838227" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aac9f5a7-db98-4018-8e0f-ecc4d58325ba" name="Default Changelist" comment="" />
+      <created>1680261480304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680261480304</updated>
+      <workItem from="1680261484176" duration="10520000" />
+      <workItem from="1680306788993" duration="5173000" />
+      <workItem from="1680323938329" duration="1287000" />
+      <workItem from="1680349185063" duration="311000" />
+      <workItem from="1680407120572" duration="2274000" />
+      <workItem from="1680427157112" duration="2445000" />
+      <workItem from="1681042166138" duration="3850000" />
+      <workItem from="1681110712110" duration="1403000" />
+      <workItem from="1681270772487" duration="764000" />
+      <workItem from="1681392414966" duration="1188000" />
+      <workItem from="1681438568814" duration="3281000" />
+      <workItem from="1681463236221" duration="27000" />
+      <workItem from="1681469975146" duration="2216000" />
+      <workItem from="1681477789472" duration="13000" />
+      <workItem from="1681694342611" duration="1076000" />
+      <workItem from="1681722291956" duration="1245000" />
+      <workItem from="1681724277617" duration="1620000" />
+      <workItem from="1681901732204" duration="1192000" />
+      <workItem from="1681990461317" duration="4418000" />
+      <workItem from="1682037752177" duration="10557000" />
+      <workItem from="1682064773416" duration="4503000" />
+      <workItem from="1692760801344" duration="596000" />
+      <workItem from="1693885513785" duration="725000" />
+      <workItem from="1694679828691" duration="1318000" />
+      <workItem from="1694825626681" duration="63000" />
+      <workItem from="1704976447612" duration="3296000" />
+      <workItem from="1705210110345" duration="9226000" />
+      <workItem from="1705588338614" duration="4072000" />
+      <workItem from="1705675171825" duration="1237000" />
+      <workItem from="1706769852020" duration="6098000" />
+      <workItem from="1706875743216" duration="2560000" />
+      <workItem from="1706880319226" duration="3892000" />
+      <workItem from="1707137829475" duration="5823000" />
+      <workItem from="1707189992526" duration="2275000" />
+      <workItem from="1707214134578" duration="8101000" />
+      <workItem from="1707357520986" duration="3078000" />
+      <workItem from="1707554341456" duration="5865000" />
+      <workItem from="1707615261317" duration="10396000" />
+      <workItem from="1707654043098" duration="3822000" />
+      <workItem from="1707825153205" duration="1341000" />
+      <workItem from="1707880507978" duration="5548000" />
+      <workItem from="1707961429552" duration="5888000" />
+      <workItem from="1708407384218" duration="4678000" />
+      <workItem from="1708596197761" duration="2984000" />
+      <workItem from="1708606256847" duration="6531000" />
+      <workItem from="1708696053226" duration="640000" />
+      <workItem from="1708748665619" duration="9910000" />
+      <workItem from="1708833401426" duration="5633000" />
+      <workItem from="1709021010756" duration="6826000" />
+      <workItem from="1709095403106" duration="9559000" />
+      <workItem from="1709195959874" duration="5038000" />
+      <workItem from="1709209599177" duration="115000" />
+      <workItem from="1709278276419" duration="2594000" />
+      <workItem from="1709450426980" duration="600000" />
+      <workItem from="1709613028313" duration="7331000" />
+      <workItem from="1709697484970" duration="706000" />
+      <workItem from="1709708534585" duration="12584000" />
+      <workItem from="1709790721869" duration="17449000" />
+      <workItem from="1709892808338" duration="5345000" />
+      <workItem from="1709971092438" duration="117000" />
+      <workItem from="1709978186634" duration="1297000" />
+      <workItem from="1709984214381" duration="7476000" />
+      <workItem from="1710042627557" duration="24112000" />
+      <workItem from="1710136940625" duration="5995000" />
+      <workItem from="1710231885462" duration="6990000" />
+      <workItem from="1710319968905" duration="9611000" />
+      <workItem from="1710406922608" duration="2345000" />
+      <workItem from="1710474053582" duration="21293000" />
+      <workItem from="1710572496633" duration="4634000" />
+      <workItem from="1710579906835" duration="23000" />
+      <workItem from="1710659384455" duration="7946000" />
+      <workItem from="1710733549268" duration="3861000" />
+      <workItem from="1710758061178" duration="7298000" />
+      <workItem from="1710846562355" duration="62000" />
+      <workItem from="1710846635868" duration="9000" />
+      <workItem from="1710912017513" duration="1880000" />
+      <workItem from="1710922659639" duration="208000" />
+      <workItem from="1711024863943" duration="8110000" />
+      <workItem from="1711094958536" duration="597000" />
+      <workItem from="1711117573378" duration="3366000" />
+      <workItem from="1711167544592" duration="7540000" />
+      <workItem from="1711270263602" duration="2866000" />
+      <workItem from="1711339803936" duration="4213000" />
+      <workItem from="1711443526042" duration="20000" />
+      <workItem from="1711445612412" duration="2290000" />
+      <workItem from="1711514165282" duration="760000" />
+      <workItem from="1711523353236" duration="4363000" />
+      <workItem from="1711596659866" duration="5166000" />
+      <workItem from="1711623744674" duration="82000" />
+      <workItem from="1711634600926" duration="105000" />
+      <workItem from="1711686012182" duration="4955000" />
+      <workItem from="1711703800394" duration="6646000" />
+      <workItem from="1711797837861" duration="595000" />
+      <workItem from="1711851485947" duration="8842000" />
+      <workItem from="1711965556693" duration="922000" />
+      <workItem from="1711970319305" duration="618000" />
+      <workItem from="1712036516225" duration="4743000" />
+      <workItem from="1712067673277" duration="591000" />
+      <workItem from="1712128022942" duration="1238000" />
+      <workItem from="1712201207009" duration="2264000" />
+      <workItem from="1712309874478" duration="2075000" />
+      <workItem from="1712325423939" duration="2214000" />
+      <workItem from="1712384515526" duration="1155000" />
+      <workItem from="1712460526906" duration="15000" />
+      <workItem from="1712489160975" duration="2702000" />
+      <workItem from="1712980329625" duration="1149000" />
+      <workItem from="1713077779681" duration="1269000" />
+      <workItem from="1713166747311" duration="1328000" />
+      <workItem from="1713248492507" duration="2427000" />
+      <workItem from="1713411151725" duration="1305000" />
+      <workItem from="1713442036011" duration="75000" />
+      <workItem from="1716299014416" duration="999000" />
+      <workItem from="1717228349585" duration="219000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1710074759437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1710074759437" />
+    <state x="499" y="158" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1710483025026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="158" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1710483025026" />
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1712053736658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1712053736658" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1712053736658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1712053736658" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1712053736658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1712053736658" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1712053736658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1712053736658" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1709197077545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1709197077545" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1717228525098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1717228525098" />
+    <state x="447" y="145" width="642" height="534" key="find.popup" timestamp="1711117819713">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="145" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1711117819713" />
+    <state x="178" y="107" key="new project wizard" timestamp="1709698621994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1709698621994" />
+    <state x="470" y="39" key="refactoring.ChangeSignatureDialog" timestamp="1710481472738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="39" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1710481472738" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1710481077474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1710481077474" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$Test.ic" NAME="Test Coverage Results" MODIFIED="1711713138694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
