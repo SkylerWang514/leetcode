@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aac9f5a7-db98-4018-8e0f-ecc4d58325ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array/DistributeCandies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/draw/CountPairsOfConnectableServers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f1a875fa-b728-4957-ab13-2da7373054be.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f1a875fa-b728-4957-ab13-2da7373054be.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Calculation/brackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculation/brackets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/BuildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tree/BuildTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/Flatten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tree/Flatten.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/skill/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/skill/ListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/leetcode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Tree/BuildTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tree/BuildTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/skill/ListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/skill/ListTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="aac9f5a7-db98-4018-8e0f-ecc4d58325ba" name="Default Changelist" comment="6.4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,28 +74,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DistributeCandies.executor": "Run",
-    "Application.brackets.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/junyuw/code/mine/leetcode/leetcode",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
-    "settings.editor.splitter.proportion": "0.2811245",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DistributeCandies.executor&quot;: &quot;Run&quot;,
+    &quot;Application.brackets.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/junyuw/code/mine/leetcode/leetcode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.2811245&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.brackets">
     <configuration name="DistributeCandies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.DistributeCandies" />
@@ -338,11 +323,25 @@
       <workItem from="1717406591618" duration="149000" />
       <workItem from="1717406748519" duration="2937000" />
       <workItem from="1717465932136" duration="13136000" />
+      <workItem from="1717549066282" duration="642000" />
     </task>
+    <task id="LOCAL-00001" summary="6.4">
+      <option name="closed" value="true" />
+      <created>1717549924944</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717549924944</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="6.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
