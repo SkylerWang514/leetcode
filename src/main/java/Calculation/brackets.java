@@ -11,33 +11,27 @@ import java.util.Stack;
 
 public class brackets {
     public static boolean isValid(String s) {
-        Stack<Character> characterStack = new Stack<Character>();
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if (isBracket(c)){
-                if (characterStack.isEmpty()){
-                    characterStack.push(c);
-                }
-                else {
-                    char a = characterStack.peek();
-                    if (isPair(a, c)){
-                        characterStack.pop();
-                    }else characterStack.push(c);
-                }
+        Stack<Character> stack = new Stack<>();
+        char[] chars = s.toCharArray();
+        for(char c: chars){
+            if (c == '(' || c == '[' || c == '{')
+                stack.push(c);
+            else {
+                if (stack.isEmpty()) return false;
+                char nowPeek = stack.peek();
+                if (isCouple(nowPeek, c)) stack.pop();
+                else stack.push(c);
             }
         }
-        return characterStack.isEmpty();
+        return stack.isEmpty();
     }
 
-    public static boolean isBracket(char c){
-        return (int) c == 40 || (int) c == 41 || (int) c == 91 || (int) c == 93 || (int) c == 123 || (int) c == 125;
+    public static boolean isCouple(char before, char after){
+        return (before == '(' && after == ')') || (before == '{' && after == '}') || (before == '[' && after == ']');
     }
 
-    public static boolean isPair(char a, char b){
-        return ((int) a == 40 && (int) b == 41) || ((int) a == 91 && (int) b == 93) || ((int) a == 123 && (int) b == 125);
-    }
 
     public static void main(String[] args) {
-        System.out.println(isValid("({[)"));
+        System.out.println(isValid("({[]})"));
     }
 }

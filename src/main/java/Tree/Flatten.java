@@ -13,19 +13,19 @@ import java.awt.*;
  **/
 
 public class Flatten {
-    public void flatten(TreeNode root) {
-        root = flat(root);
+    public TreeNode flat(TreeNode root) {
+        return flatten(root);
     }
 
-    public TreeNode flat(TreeNode root) {
-        if (root == null) return null;
+    public static TreeNode flatten(TreeNode root){
         if (root.left == null && root.right == null) return root;
-        TreeNode left = flat(root.left);
-        TreeNode right = flat(root.right);
-        root.right = left;
+        TreeNode left = flatten(root.left);
+        TreeNode right = flatten(root.right);
         root.left = null;
-        while (left.right != null) left = left.right;
-        left.right = right;
+        root.right = left;
+        TreeNode now = left;
+        while (now.right != null) now = now.right;
+        now.right = right;
         return root;
     }
 }

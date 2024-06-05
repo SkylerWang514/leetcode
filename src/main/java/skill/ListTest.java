@@ -23,7 +23,7 @@ public class ListTest {
     Deque<Integer> b = new LinkedList<>();
 
     private ListTest(){
-        System.arraycopy();
+//        System.arraycopy();
     }
 
     public ListTest getListTest(){

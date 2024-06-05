@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="aac9f5a7-db98-4018-8e0f-ecc4d58325ba" name="Default Changelist" comment="" />
+    <list default="true" id="aac9f5a7-db98-4018-8e0f-ecc4d58325ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array/DistributeCandies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/draw/CountPairsOfConnectableServers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f1a875fa-b728-4957-ab13-2da7373054be.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f1a875fa-b728-4957-ab13-2da7373054be.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculation/brackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculation/brackets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/BuildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tree/BuildTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/Flatten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tree/Flatten.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/skill/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/skill/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/leetcode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tree/BuildTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tree/BuildTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/skill/ListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/skill/ListTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,9 +61,6 @@
     </expand>
     <select />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="leetcode" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -53,39 +68,63 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="F:\RepMavenIDEA" />
-        <option name="mavenHome" value="F:/Server/apache-maven-3.6.3" />
+        <option name="customMavenHome" value="C:\junyuw\code\mine\IDEA\Maven" />
+        <option name="localRepository" value="C:\junyuw\code\mine\IDEA\RepMavenIDEA" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
         <option name="userSettingsFile" value="F:\Server\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2NmFivE1fPxS24IX0PxAf7zIqKM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="mysql" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lottery" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
-  </component>
-  <component name="RunManager" selected="Application.ListTest">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DistributeCandies.executor": "Run",
+    "Application.brackets.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/junyuw/code/mine/leetcode/leetcode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "settings.editor.splitter.proportion": "0.2811245",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.brackets">
+    <configuration name="DistributeCandies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.DistributeCandies" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="skill.ListTest" />
       <module name="leetcode" />
@@ -95,13 +134,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,13 +151,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Singleton" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="leetcode" />
@@ -133,13 +158,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="brackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculation.brackets" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Calculation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.brackets" />
+        <item itemvalue="Application.DistributeCandies" />
         <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Partition" />
-        <item itemvalue="Application.Singleton" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +203,15 @@
       </list>
     </option>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -288,61 +335,18 @@
       <workItem from="1713442036011" duration="75000" />
       <workItem from="1716299014416" duration="999000" />
       <workItem from="1717228349585" duration="219000" />
+      <workItem from="1717406591618" duration="149000" />
+      <workItem from="1717406748519" duration="2937000" />
+      <workItem from="1717465932136" duration="13136000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1710074759437">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1710074759437" />
-    <state x="499" y="158" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1710483025026">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="158" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1710483025026" />
-    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1712053736658">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1712053736658" />
-    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1712053736658">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1712053736658" />
-    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1712053736658">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1712053736658" />
-    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1712053736658">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1712053736658" />
-    <state x="270" y="54" key="SettingsEditor" timestamp="1709197077545">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1709197077545" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1717228525098">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1717228525098" />
-    <state x="447" y="145" width="642" height="534" key="find.popup" timestamp="1711117819713">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="447" y="145" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1711117819713" />
-    <state x="178" y="107" key="new project wizard" timestamp="1709698621994">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="178" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1709698621994" />
-    <state x="470" y="39" key="refactoring.ChangeSignatureDialog" timestamp="1710481472738">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="470" y="39" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1710481472738" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1710481077474">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1710481077474" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode$Test.ic" NAME="Test Coverage Results" MODIFIED="1711713138694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
